@@ -1,0 +1,14 @@
+{
+    "nombre": "Catálogo Maestro INEGI",
+    "version": "2.1.0",
+    "fecha_generacion": "2026-08-05 17:33:49",
+    "archivo": "catalogo_maestro.db",
+    "tamano_bytes": 94253056,
+    "sha256": "3d01e9fce0e3f773583eff428b8b15c312ad6c7e4a4c491f312ebb7e257d35a3",
+    "grid_size": 0.05,
+    "estados": 32,
+    "municipios": 2478,
+    "localidades": 360452,
+    "especiales": 765,
+    "tiempo_construccion": 94.71
+}
